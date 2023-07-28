@@ -43,3 +43,5 @@ streamlit.text(my_data_row)
 
 
 import snowsql.connector
+
+import snowsql.connector
